@@ -6,7 +6,7 @@ public class Aluno {
 	private String id;
 	private String ra;
 	private String nome;
-    private LocalDate nasc;
+        private LocalDate nasc;
     
     DateTimeFormatter dtf = DateTimeFormatter.ofPattern("dd/MM/yyyy");
     
